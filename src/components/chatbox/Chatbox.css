@@ -5,14 +5,17 @@
     width: 700px;
     background-color: aquamarine;
     margin: auto;
-    border-radius: 15px;
+    border-radius: 10px ;
+    border: 2px solid black;
+    padding: 30px;
+    overflow-y: auto;
 }
 
 .message{
-    background-color: gray;
-    width: 24%;
+    
+    width: auto;
     padding: 10px;
-    margin: 17px 12px;
+    margin: 13px 12px;
     border: 2px solid black;
     border-radius: 10px;
 }
